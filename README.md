@@ -5,7 +5,7 @@
 - For this project, you will be looking at the starter code and be guided through this project by your instructors. The project will cover many important JavaScripts concepts such as DOM, variables, loops and functions. Your favorite artist has been challenged to a versuz battle. They have asked you to create a single-page app that will help them to prepare for their battle. The app will be a CRUD application-- allowing the artist to Create, Render, Update and Delete their song list. The script.js file is commented out thoroughly with instructions on how to complete code. Within the comments there are also resources which are also listed below. 
 
 ## Mini Lessons 
-#### InnerHTML
+##### InnerHTML
 - https://codepen.io/scastaneda/pen/dyWYoar
 - Loops 
 - https://codepen.io/scastaneda/pen/oNWjXRV?editors=1111
