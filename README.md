@@ -1,5 +1,51 @@
 # Versuz CRUD Vanilla JavaScript Project
 
+## User Story 
+Your favorite artist has been challenged to a versuz battle. They have asked you to create a single-page app that will help them to prepare for their battle. As you know, these battles are high stakes, so this app must be good! Following are their requirements for the app:
+
+- As a user, I want to be able to see a card for each song that will contain the song’s title, album’s title, number of plays, release year, and a link to a youtube video for the song
+- As a user, I want the ability to delete an entire song card  
+- As a user, I need to be able to update the information for a song in a card
+- As a user, I want to be able to search for the songs that are within my app
+
+# What is CRUD?
+<details>
+  <summary>Click to expand!</summary>
+   
+- When we are building a database for a web application, we want our app to provide four basic types of functionality. The application must be able to Create, Read, Update, and Delete resources. Computer scientists often refer to these functions by the acronym CRUD. A basic application should have the ability to perform at most these four functions in order to be complete. 
+   
+- The CRUD paradigm is common in constructing web applications, because it provides a memorable framework for reminding developers of how to construct full, usable applications. For example, let’s imagine a system to keep track of library books. In this hypothetical library database, we can imagine that there would be a books resource, which would store book objects. Let’s say that the book object looks like this:
+```js   
+let book = {
+  id: 1234,
+  title: "The Hate U Give",
+  author: "Angie Thomas",
+  Isbn: "978-1235-658-234"
+}
+```
+   <details>
+      <summary>Create</summary>
+     - Create: This would consist of a function which we would call when a new library book is being added to the catalog. The program calling the function would supply the values for “title”, “author”, and “isbn”. After this function is called, there should be a new entry in the books resource corresponding to this new book. Additionally, the new entry is assigned a unique id, which can be used to access this resource later.
+ 
+To make this library system usable, we would want to make sure there were clear mechanisms for completing the CRUD operations:
+   </details>
+   
+ <details>
+            <summary>Read</summary>
+         - Read: This would consist of a function which would be called to see all of the books currently in the catalog. This function call would not alter the books in the catalog - it would simply retrieve the resource and display the results. We would also have a function to retrieve a single book, for which we could supply the title, author, or ISBN. Again, this book would not be modified, only retrieved.
+
+ </details>
+ <details>
+            <summary>Update</summary>
+      - Update: There should be a function to call when information about a book must be changed. The program calling the function would supply the new values for “title”, “author”, and “isbn”. After the function call, the corresponding entry in the books resource would contain the new fields supplied.
+ </details>
+  <details>
+         <summary>Delete</summary>
+   - Delete: There should be a function to call to remove a library book from the catalog. The program calling the function would supply one or more values (“title”, “author”, and/or “isbn”) to identify the book, and then this book would be removed from the books resource. After this function is called, the books resource should contain all of the books it had before, except for the one just deleted.
+   </details>
+   
+</details>
+
 ## Student Instructions
 
 - For this project, you will be looking at the starter code and be guided through this project by your instructors. The project will cover many important JavaScripts concepts such as DOM, variables, loops and functions. Your favorite artist has been challenged to a versuz battle. They have asked you to create a single-page app that will help them to prepare for their battle. The app will be a CRUD application-- allowing the artist to Create, Render, Update and Delete their song list. The script.js file is commented out thoroughly with instructions on how to complete code. Within the comments there are also resources which are also listed below. 
