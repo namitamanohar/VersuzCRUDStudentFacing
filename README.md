@@ -1,4 +1,4 @@
-# Versuz CRUD Vanilla JavaScript Project
+# Verzuz CRUD Vanilla JavaScript Project
 
 ## User Story 
 Your favorite artist has been challenged to a versuz battle. They have asked you to create a single-page app that will help them to prepare for their battle. As you know, these battles are high stakes, so this app must be good! Following are their requirements for the app:
