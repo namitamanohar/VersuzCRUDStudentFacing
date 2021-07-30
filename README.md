@@ -68,14 +68,14 @@ To make this library system usable, we would want to make sure there were clear 
 #### Appending Element MDN
 - https://developer.mozilla.org/en-US/docs/Web/API/Element/append#appending_an_element
 ### DELETE
-#### Array Methods Splice
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
 #### Class Starting With 
 - https://stackoverflow.com/questions/55144239/select-each-class-starting-with-a-given-string-in-pure-javascript
-#### Adding Event Listener
+### Adding Event Listener
 - https://www.w3schools.com/jsref/met_document_addeventlistener.asp
 #### Array Methods 
 - https://www.w3schools.com/js/js_array_methods.asp
+#### Array Methods Splice
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
 ### CREATE
 #### Value Property 
 - https://www.w3schools.com/jsref/prop_text_value.asp
