@@ -126,7 +126,7 @@ Some things you could think about in terms of styling are:
 3. Click Create Sandbox at the top right and select Import Project from the left side
 4. Paste the url of this project and click Import and Fork
 5. Click on the Github Cat on the left side
-6. Under Export to new Github Repository: give your repo the name MusicCRUDVanillaJSProject (your project will now be linked to your github)
+6. Under Export to new Github Repository: give your repo the name VerzuzMusicProject (your project will now be linked to your github)
 7. Click Link to Sandbox
 8. Follow the steps in the comments in the index.js code
 
