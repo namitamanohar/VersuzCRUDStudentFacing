@@ -85,6 +85,8 @@ To make this library system usable, we would want to make sure there were clear 
 - https://www.w3schools.com/howto/howto_js_remove_class.asp
 #### Add Class 
 - https://www.w3schools.com/howto/howto_js_add_class.asp
+### Splice and Insert Object 
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
 
 ## Code Snippet 
 ```html
