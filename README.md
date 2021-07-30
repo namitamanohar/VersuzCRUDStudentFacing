@@ -6,7 +6,6 @@ Your favorite artist has been challenged to a versuz battle. They have asked you
 - As a user, I want to be able to see a card for each song that will contain the song’s title, album’s title, number of plays, release year, and a link to a youtube video for the song
 - As a user, I want the ability to delete an entire song card  
 - As a user, I need to be able to update the information for a song in a card
-- As a user, I want to be able to search for the songs that are within my app
 
 # What is CRUD?
 <details>
