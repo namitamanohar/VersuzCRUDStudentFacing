@@ -74,8 +74,6 @@ To make this library system usable, we would want to make sure there were clear 
 - https://www.w3schools.com/jsref/met_document_addeventlistener.asp
 #### Array Methods 
 - https://www.w3schools.com/js/js_array_methods.asp
-#### Array Methods Splice
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
 ### CREATE
 #### Value Property 
 - https://www.w3schools.com/jsref/prop_text_value.asp
