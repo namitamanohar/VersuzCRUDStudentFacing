@@ -132,4 +132,4 @@ Some things you could think about in terms of styling are:
 
 ## Submission 
 
-- https://bit.ly/VersuzSubmit
+- https://bit.ly/VerzuzSubmit
