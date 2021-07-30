@@ -99,6 +99,26 @@ To make this library system usable, we would want to make sure there were clear 
     <button class="updateButton--${songIndex}">Update</button>
     `;
 ```
+## Styling 
+<details>
+  <summary>Links</summary>
+
+Now’s the time to add a little personal touch to your projects. We are going to leave this all up to you! In your styles.css file you will see we already have some styles set, but you can add to them. Use the classes we have already created or add more if needed.
+Some things you could think about in terms of styling are:
+  
+#### Adding a background color for the cards (make sure the font is still readable. You may have to change the font color inside cards if needed.)
+- https://www.w3schools.com/cssref/pr_background-color.asp
+#### Changing the border radius of cards or add a box shadow to make the cards appear 3D
+- https://www.w3schools.com/cssref/css3_pr_border-radius.asp.
+- https://www.w3schools.com/cssref/css3_pr_box-shadow.asp
+#### Change the font type
+- https://www.w3schools.com/cssref/pr_font_font-family.asp
+#### Add a header/title for this project by adding an H1 in your HTML
+#### Add an image at the top of the app (ex: versus logo)
+- https://www.w3schools.com/tags/tag_img.asp
+
+
+ </details>
 
 ## Instructions
 
