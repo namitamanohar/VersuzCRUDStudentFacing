@@ -52,7 +52,6 @@ To make this library system usable, we would want to make sure there were clear 
 ## Mini Lessons 
 #### InnerHTML
 - https://codepen.io/scastaneda/pen/dyWYoar
-- <a href="https://codepen.io/scastaneda/pen/dyWYoar" target="_blank">https://codepen.io/scastaneda/pen/dyWYoar</a>
 #### Loops 
 - https://codepen.io/scastaneda/pen/oNWjXRV?editors=1111
 #### Indexed Objects and Dot Notation
