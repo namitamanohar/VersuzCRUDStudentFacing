@@ -1,7 +1,7 @@
 # Verzuz CRUD Vanilla JavaScript Project
 
 ## User Story 
-Your favorite artist has been challenged to a versuz battle. They have asked you to create a single-page app that will help them to prepare for their battle. As you know, these battles are high stakes, so this app must be good! Following are their requirements for the app:
+Your favorite artist has been challenged to a verzuz battle. They have asked you to create a single-page app that will help them to prepare for their battle. As you know, these battles are high stakes, so this app must be good! Following are their requirements for the app:
 
 - As a user, I want to be able to see a card for each song that will contain the song’s title, album’s title, number of plays, release year, and a link to a youtube video for the song
 - As a user, I want the ability to delete an entire song card  
@@ -47,7 +47,7 @@ To make this library system usable, we would want to make sure there were clear 
 
 ## Student Instructions
 
-- For this project, you will be looking at the starter code and be guided through this project by your instructors. The project will cover many important JavaScripts concepts such as DOM, variables, loops and functions. Your favorite artist has been challenged to a versuz battle. They have asked you to create a single-page app that will help them to prepare for their battle. The app will be a CRUD application-- allowing the artist to Create, Render, Update and Delete their song list. The script.js file is commented out thoroughly with instructions on how to complete code. Within the comments there are also resources which are also listed below. 
+- For this project, you will be looking at the starter code and be guided through this project by your instructors. The project will cover many important JavaScripts concepts such as DOM, variables, loops and functions. Your favorite artist has been challenged to a verzuz battle. They have asked you to create a single-page app that will help them to prepare for their battle. The app will be a CRUD application-- allowing the artist to Create, Render, Update and Delete their song list. 
 
 ## Mini Lessons 
 #### InnerHTML
